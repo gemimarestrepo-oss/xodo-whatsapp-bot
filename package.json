@@ -1,0 +1,16 @@
+{
+  "name": "xodo-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Chatbot de WhatsApp para XODO Chips: respuestas automaticas y toma de pedidos, con panel de revision para el dueno del negocio.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
